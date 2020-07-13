@@ -7,3 +7,6 @@ The Objection detection Framwork used the YOLOv3.
 
 # Build the detection API and test it with Postman:
 
+Note that the yolov3.weights file should be included in the Detection_API_Test. I didn't put here because of it's size but it can be downloaded in the following link: https://pjreddie.com/darknet/yolo/
+
+
