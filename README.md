@@ -17,7 +17,7 @@ Run command:
 
 $python api_test.py
 
-Note that this part is run locally
+Note that this part is run in local host.
 
 
 ## Test Result With Postman: 
