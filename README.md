@@ -5,8 +5,8 @@ Python, Flask, Docker compose.
 The Objection detection Framwork used the YOLOv3.
 
 ### Deployement:
-  - AWS EC2 instance
-  - Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS) 
+  - first option: AWS EC2 instance
+  - Second option: Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS) 
 
 
 # Build the detection API and test it with Postman:
