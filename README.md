@@ -26,7 +26,9 @@ Note that this part is run in local host.
 
 # Web Application
 
-<!-- put the architecture picture here nginx -->
+<!-- The architecture picture here nginx -->
+![pic1](https://user-images.githubusercontent.com/44145876/87399587-2743df00-c5ea-11ea-9870-f60802141800.png)
+
 
 The html and css files are respectively in /flask/templates and /flask/static directories.
 
