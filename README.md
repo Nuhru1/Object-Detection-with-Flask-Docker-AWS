@@ -52,8 +52,10 @@ app is running in the localhost:
 
 ![Screen Shot 2020-07-14 at 5 16 50 PM 1](https://user-images.githubusercontent.com/44145876/87408410-008ba580-c5f6-11ea-939f-8aee5686a25d.png)
 
+#
 
-## Running on AES EC2
+
+## Running on AWS EC2
 
 
 
