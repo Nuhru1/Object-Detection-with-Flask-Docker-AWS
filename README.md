@@ -68,8 +68,7 @@ A security group is a set of firewall rules that control the traffic for your in
 
 Note: open the port 80 to allow users to send requests as you specified it in docker compose file
 
-![Screen Shot 2020-07-14 at 5 16 50 PM 1](https://user-images.githubusercontent.com/44145876/87433507-f5e40700-c61b-11ea-8755-ed4a96959507.png)
-
+![Screen Shot 2020-07-14 at 9 47 59 PM](https://user-images.githubusercontent.com/44145876/87433965-802c6b00-c61c-11ea-867f-365d1b669bc1.png)
 
 
 ### 4. Connect to your EC2 instance with your Terminal:
