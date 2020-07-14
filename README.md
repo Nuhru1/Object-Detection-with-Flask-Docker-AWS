@@ -81,6 +81,10 @@ Note: open the port 80 to allow users to send requests as you specified it in do
 		.$ssh ec2-user@IP -i key-pair file (IP: IPv4 Public IP of your EC2 instance)
 
 
+### 5. Run:
+	. $git clone the repo or send your project folder to your EC2 instance.
+	. $docker-compose build
+	. $docker-compose up
 
 
 
