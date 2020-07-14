@@ -56,17 +56,23 @@ app is running in the localhost:
 
 ## Running on AWS EC2
 
-### create a user with Programmatic access:
+### 1. create a user with Programmatic access:
 	. Programmatic access Enables an access key ID and secret access key for the AWS API, CLI, SDK, and other development tools. (save the access key ID and secret access key)
-	. Add user to a group AdministratorAccess 
+	. Add user to a group with AdministratorAccess 
 
-### create and EC2 instance : for this project I used Amazon Linux 2 instance (t2.micro Free tier)
+### 2. create and EC2 instance : 
+Amazon Linux 2 instance (t2.micro Free tier) for this project
 
-### Configure Security Group:
+### 3. Configure Security Group:
 A security group is a set of firewall rules that control the traffic for your instance. You can add rules to allow specific traffic to reach your instance. For example, if you want to set up a web server and allow Internet traffic to reach your instance, add rules that allow unrestricted access to the HTTP and HTTPS ports.
 
+Note: open the port 80 to allow users to send requests as you specified it in docker compose file
 
-### Connect to your EC2 instance with your Terminal:
+![Screen Shot 2020-07-14 at 5 16 50 PM 1](https://user-images.githubusercontent.com/44145876/87433507-f5e40700-c61b-11ea-8755-ed4a96959507.png)
+
+
+
+### 4. Connect to your EC2 instance with your Terminal:
 	. Open your terminal in the directory containing your key pair file
 
 	. change the permission to 400 : 
