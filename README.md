@@ -1,4 +1,4 @@
-# Object-Detection-with-Flask-Docker-AWS-nginx
+# Object Detection with Flask Docker AWS nginx and uwsgi
 
 This repo is showing the steps for building obbject detection web application with:
 Python, Flask, Docker compose.
