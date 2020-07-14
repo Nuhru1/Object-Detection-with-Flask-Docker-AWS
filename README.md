@@ -34,7 +34,6 @@ Note that this part is run in local host.
 #
 
 
-The html and css files are respectively in /flask/templates and /flask/static directories.
 
 Note: download yolov3.weights from https://pjreddie.com/darknet/yolo/ and put it yolo_conf directory
 
@@ -57,17 +56,17 @@ app is running in the localhost:
 
 ## Running on AWS EC2
 
-###- create a user with Programmatic access:
+### create a user with Programmatic access:
 	. Programmatic access Enables an access key ID and secret access key for the AWS API, CLI, SDK, and other development tools. (save the access key ID and secret access key)
 	. Add user to a group AdministratorAccess 
 
-###- create and EC2 instance : for this project I used Amazon Linux 2 instance (t2.micro Free tier)
+### create and EC2 instance : for this project I used Amazon Linux 2 instance (t2.micro Free tier)
 
-###- Configure Security Group:
+### Configure Security Group:
 A security group is a set of firewall rules that control the traffic for your instance. You can add rules to allow specific traffic to reach your instance. For example, if you want to set up a web server and allow Internet traffic to reach your instance, add rules that allow unrestricted access to the HTTP and HTTPS ports.
 
 
-###- Connect to your EC2 instance with your Terminal:
+### Connect to your EC2 instance with your Terminal:
 	. Open your terminal in the directory containing your key pair file
 
 	. change the permission to 400 : 
