@@ -87,8 +87,17 @@ Note: open the port 80 to allow users to send requests as you specified it in do
 	. $docker-compose up
 
 
+## Output
 
-coming soon...
+Type your EC2 instance public IP on your browser
+
+
+![Screen Shot 2020-07-14 at 10 19 44 PM](https://user-images.githubusercontent.com/44145876/87437146-83295a80-c620-11ea-844d-01d6a39d6ca9.png)
+
+
+![Screen Shot 2020-07-14 at 10 21 35 PM](https://user-images.githubusercontent.com/44145876/87437159-8886a500-c620-11ea-8b7d-7a03064b10a5.png)
+
+
 
 
 
