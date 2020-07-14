@@ -36,6 +36,7 @@ Note that this part is run in local host.
 
 The html and css files are respectively in /flask/templates and /flask/static directories.
 
+Note: download yolov3.weights from https://pjreddie.com/darknet/yolo/ and put it yolo_conf directory
 
 
 
@@ -44,6 +45,16 @@ run in local host with docker-compose:
 $docker-compose build
 
 $docker-compose up
+
+
+app is running in the localhost:
+
+
+![Screen Shot 2020-07-14 at 5 16 50 PM 1](https://user-images.githubusercontent.com/44145876/87408410-008ba580-c5f6-11ea-939f-8aee5686a25d.png)
+
+
+## Running on AES EC2
+
 
 
 
