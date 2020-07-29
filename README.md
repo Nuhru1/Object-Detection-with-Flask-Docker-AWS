@@ -60,7 +60,7 @@ app is running in the localhost:
 	. Programmatic access Enables an access key ID and secret access key for the AWS API, CLI, SDK, and other development tools. (save the access key ID and secret access key)
 	. Add user to a group with AdministratorAccess 
 
-### 2. create and EC2 instance : 
+### 2. create an EC2 instance : 
 Amazon Linux 2 instance (t2.micro Free tier) for this project
 
 ### 3. Configure Security Group:
